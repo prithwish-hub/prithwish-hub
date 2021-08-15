@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prithwish-hub
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
