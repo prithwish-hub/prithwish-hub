@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @prithwish-hub
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can contact me via wprith@gmail.com
 
 <!---
 prithwish-hub/prithwish-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
